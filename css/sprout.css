@@ -1,2 +1,7 @@
 .pic{width: 100%;}
 .checklist{list-style-type: circle;}
+.footer p {
+  margin-bottom: 0px;
+  padding-top: 18px;
+  color: rgb(216, 0, 13);
+}
